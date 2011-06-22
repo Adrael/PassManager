@@ -1,0 +1,4 @@
+>> Ajouter raccourcis pour MENUS
+>> Check si keyfile existe au démarrage, si oui, demande simple de mot de passe, sinon effacement de la base de données. Si 3 erreurs de MDP consécutives, effacement. Différencier fenêtre de créat. MDP et log
+>> Ajouter champs adresse et lors du double-clique dessus ouvrir nav web defaut avec adresse
+>> modifier aide pour nav defaut
